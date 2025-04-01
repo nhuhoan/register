@@ -1,0 +1,10 @@
+{
+  "domain": "techinza.is-a.dev",
+  "owner": {
+    "email": "ngnhoan@gmail.com",
+    "github": "nhuhoan"
+  },
+  "records": {
+    "A": ["8.222.190.189"]
+  }
+}
